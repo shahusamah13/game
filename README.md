@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This is a simple command-line number guessing game implemented in Python.
+This is a simple command-line number-guessing game implemented in Python.
 
 ## How to Play
 
