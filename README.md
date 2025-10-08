@@ -13,3 +13,4 @@ This is a simple command-line number guessing game implemented in Python.
 4.  Enter your guess when prompted.
 5.  The game will tell you if your guess is too high or too low.
 6.  Keep guessing until you find the correct number!
+   Good Luck
